@@ -6,6 +6,10 @@ body {
 	width: 100%;
 }
 
+.flagIcon {
+	height: 1.0rem;
+}
+
 .sticky-footer {
 	display: flex;
 	flex-direction: column;
