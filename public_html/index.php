@@ -20,7 +20,7 @@
 				<footer>&mdash;The Borg</footer>
 			</blockquote>
 		</div>
-		<footer>
+		<footer class="sticky-footer-footer">
 			This is a footer.
 		</footer>
 	</body>
