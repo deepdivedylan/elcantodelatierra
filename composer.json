@@ -1,0 +1,14 @@
+{
+	"require": {
+		"google/recaptcha": "@stable",
+		"mailgun/mailgun-php": "@stable",
+		"php-http/guzzle6-adapter": "@stable",
+		"phpunit/dbunit": "@stable",
+		"phpunit/phpunit": "@stable",
+		"ramsey/uuid": "@stable"
+	},
+
+	"scripts": {
+		"phpunit": "./vendor/bin/phpunit -c ./php/classes/Test --coverage-html coverage"
+	}
+}
