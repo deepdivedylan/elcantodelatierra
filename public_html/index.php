@@ -19,7 +19,7 @@
 				<nav class="navbar navbar-expand-md navbar-light bg-light">
 					<a class="navbar-brand" href="/"><img src="https://placekitten.com/g/32/32" alt="" /> El Canto</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
+						<i class="fas fa-bars"></i>
 					</button>
 
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -45,7 +45,7 @@
 			<main class="container">
 				<h1>El Canto</h1>
 				<blockquote>
-					<p>Resistance is futile.</p>
+					<p><i class="fab fa-reddit"></i> Resistance is futile.</p>
 					<footer>&mdash;The Borg</footer>
 				</blockquote>
 			</main>
