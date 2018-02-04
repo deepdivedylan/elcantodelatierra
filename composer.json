@@ -1,11 +1,11 @@
 {
 	"require": {
+		"gettext/gettext": "@stable",
 		"google/recaptcha": "@stable",
 		"mailgun/mailgun-php": "@stable",
 		"php-http/guzzle6-adapter": "@stable",
 		"phpunit/dbunit": "@stable",
-		"phpunit/phpunit": "@stable",
-		"ramsey/uuid": "@stable"
+		"phpunit/phpunit": "@stable"
 	},
 
 	"scripts": {
